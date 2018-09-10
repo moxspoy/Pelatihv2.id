@@ -28,8 +28,28 @@ class Footer extends CI_Controller {
 		$this->load->view('errors/html/forbidden');
 	}
 	
-	public function login()
+	public function career()
 	{
-		$this->load->view('guest/login');
+		$this->load->template('footer/career');
+	}
+
+	public function about()
+	{
+		$this->load->template('footer/about');
+	}
+
+	public function privacy()
+	{
+		$this->load->template('footer/privacy');
+	}
+
+	public function terms()
+	{
+		$this->load->template('footer/terms');
+	}
+
+	public function faq()
+	{
+		$this->load->template('footer/faq');
 	}
 }

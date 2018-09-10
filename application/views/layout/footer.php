@@ -28,11 +28,11 @@
 			</div>
 			<div class="col-lg-6">
 				<nav class="footer-links text-lg-right text-center pt-2 pt-lg-0">
-					<a href="<?php echo base_url('footer/career') ?>" class="scrollto">Career</a>
-					<a href="<?php echo base_url('footer/about') ?>" class="scrollto">About</a>
-					<a href="<?php echo base_url('footer/privacy') ?>">Privacy Policy</a>
-					<a href="<?php echo base_url('footer/terms') ?>">Terms of Use</a>
-					<a href="<?php echo base_url('footer/faq') ?>">FAQ</a>
+					<a href="<?php echo base_url('index.php/footer/career') ?>" class="scrollto">Career</a>
+					<a href="<?php echo base_url('index.php/footer/about') ?>" class="scrollto">About</a>
+					<a href="<?php echo base_url('index.php/footer/privacy') ?>">Privacy Policy</a>
+					<a href="<?php echo base_url('index.php/footer/terms') ?>">Terms of Use</a>
+					<a href="<?php echo base_url('index.php/footer/faq') ?>">FAQ</a>
 					<a href="https://blog.pelatih.id">Blog</a>
 				</nav>
 			</div>
