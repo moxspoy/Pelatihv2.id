@@ -2,22 +2,15 @@
 <main id="main">
 
 	<!--==========================
-      About Us Section
+      Frequently Asked Questions Section
     ============================-->
-	<section id="about" class="section-bg">
-		<div class="container-fluid">
-			<div class="section-header">
-				<h3 class="section-title">Career</h3>
-				<span class="section-divider"></span>
-				<p class="section-description">
-
-				</p>
-			</div>
+	<section id="faq">
+		<div class="container">
 
 			<div class="section-header">
-				<h3 class="section-title">Frequently Asked Questions</h3>
+				<h3 class="section-title">Careers</h3>
 				<span class="section-divider"></span>
-				<p class="section-description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+				<p class="section-description">Lets join with our superteams</p>
 			</div>
 
 			<ul id="faq-list" class="wow fadeInUp">
@@ -76,7 +69,7 @@
 				</li>
 
 			</ul>
-		</div>
-	</section><!-- #about -->
 
+		</div>
+	</section><!-- #faq -->
 </main>
