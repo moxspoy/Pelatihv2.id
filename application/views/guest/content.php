@@ -78,11 +78,10 @@
 
 			<div class="row">
 
-				<div class="col-lg-8 offset-lg-4">
-					<div class="section-header wow fadeIn" data-wow-duration="1s">
-						<h3 class="section-title">Product Featuress</h3>
-						<span class="section-divider"></span>
-					</div>
+				<div class="section-header">
+					<h3 class="section-title">Product Feature</h3>
+					<span class="section-divider"></span>
+
 				</div>
 
 				<div class="col-lg-4 col-md-5 features-img">
@@ -191,11 +190,14 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-9 text-center text-lg-left">
-					<h3 class="cta-title">Call To Action</h3>
-					<p class="cta-text"> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+					<h3 class="cta-title">Become Trainer</h3>
+					<p class="cta-text">
+						We are looking for someone who loves to share their skills to help people have skill they need.
+						Get the additional income for you
+					</p>
 				</div>
 				<div class="col-lg-3 cta-btn-container text-center">
-					<a class="cta-btn align-middle" href="#">Call To Action</a>
+					<a class="cta-btn align-middle" href="<?php echo base_url('trainer/register')?>">Register</a>
 				</div>
 			</div>
 
@@ -546,13 +548,17 @@
 				<div class="col-lg-4 col-md-4">
 					<div class="contact-about">
 						<h3>Pelatih.id</h3>
-						<p>Cras fermentum odio eu feugiat. Justo eget magna fermentum iaculis eu non diam phasellus. Scelerisque felis imperdiet proin fermentum leo. Amet volutpat consequat mauris nunc congue.</p>
+						<p>
+							Platform that connect people with trainer/instructor/mentor they need.
+							This is the only one platform that integrating 5 field of skills.
+							You can easily get the trainer of sport, language and art, religion, and informatics.
+						</p>
 						<div class="social-links">
-							<a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
-							<a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
-							<a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
-							<a href="#" class="google-plus"><i class="fa fa-google-plus"></i></a>
-							<a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
+							<a href="https://twitter.com/pelatihID" class="twitter"><i class="fa fa-twitter"></i></a>
+							<a href="https://facebook.com/pelatihID" class="facebook"><i class="fa fa-facebook"></i></a>
+							<a href="https://instagram.com/pelatih.id" class="instagram"><i class="fa fa-instagram"></i></a>
+							<a href="https://plus.google.com" class="google-plus"><i class="fa fa-google-plus"></i></a>
+							<a href="https://github.com/moxspoy" class="github"><i class="fa fa-github"></i></a>
 						</div>
 					</div>
 				</div>
