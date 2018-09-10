@@ -32,6 +32,7 @@
 					<a href="<?php echo base_url('footer/about') ?>" class="scrollto">About</a>
 					<a href="<?php echo base_url('footer/privacy') ?>">Privacy Policy</a>
 					<a href="<?php echo base_url('footer/terms') ?>">Terms of Use</a>
+					<a href="<?php echo base_url('footer/faq') ?>">FAQ</a>
 					<a href="https://blog.pelatih.id">Blog</a>
 				</nav>
 			</div>
