@@ -494,31 +494,33 @@
 			<div class="section-header">
 				<h3 class="section-title">Gallery</h3>
 				<span class="section-divider"></span>
-				<p class="section-description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+				<p class="section-description">
+					We believe that anyone has a high potential to grow up in specific field.
+				</p>
 			</div>
 
 			<div class="row no-gutters">
 
 				<div class="col-lg-4 col-md-6">
 					<div class="gallery-item wow fadeInUp">
-						<a href="<?php echo base_url('assets/img/gallery/gallery-1.jpg')?>" class="gallery-popup">
-							<img src="<?php echo base_url('assets/img/gallery/gallery-1.jpg')?>" alt="">
+						<a href="http://www.herworld.co.id/gallery/teaser/22-Fakta-Menarik-Peraih-Medali-Emas-Defia-Rosmaniar_51_20180820141000.jpg" class="gallery-popup">
+							<img src="http://www.herworld.co.id/gallery/teaser/22-Fakta-Menarik-Peraih-Medali-Emas-Defia-Rosmaniar_51_20180820141000.jpg" alt="">
 						</a>
 					</div>
 				</div>
 
 				<div class="col-lg-4 col-md-6">
 					<div class="gallery-item wow fadeInUp">
-						<a href="<?php echo base_url('assets/img/gallery/gallery-2.jpg')?>" class="gallery-popup">
-							<img src="<?php echo base_url('assets/img/gallery/gallery-2.jpg')?>" alt="">
+						<a href="https://awsimages.detik.net.id/community/media/visual/2018/08/29/ea08abfd-07e7-4916-a50a-177755f06eb9_169.jpeg?w=780&q=90" class="gallery-popup">
+							<img src="https://awsimages.detik.net.id/community/media/visual/2018/08/29/ea08abfd-07e7-4916-a50a-177755f06eb9_169.jpeg?w=780&q=90" alt="">
 						</a>
 					</div>
 				</div>
 
 				<div class="col-lg-4 col-md-6">
 					<div class="gallery-item wow fadeInUp">
-						<a href="<?php echo base_url('assets/img/gallery/gallery-3.jpg')?>" class="gallery-popup">
-							<img src="<?php echo base_url('assets/img/gallery/gallery-3.jpg')?>" alt="">
+						<a href="https://img.okezone.com/content/2018/02/24/43/1864162/tim-renang-indonesia-bidik-emas-pertama-asian-games-2018-03jn4Q1YOD.jpg" class="gallery-popup">
+							<img src="https://img.okezone.com/content/2018/02/24/43/1864162/tim-renang-indonesia-bidik-emas-pertama-asian-games-2018-03jn4Q1YOD.jpg" alt="">
 						</a>
 					</div>
 				</div>
