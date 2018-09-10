@@ -115,7 +115,7 @@
 			<div class="section-header">
 				<h3 class="section-title">More Features</h3>
 				<span class="section-divider"></span>
-				<p class="section-description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+				<p class="section-description">We stand and keep work to make better experience when user use the platform</p>
 			</div>
 
 			<div class="row">
@@ -123,32 +123,33 @@
 				<div class="col-lg-6">
 					<div class="box wow fadeInLeft">
 						<div class="icon"><i class="ion-ios-stopwatch-outline"></i></div>
-						<h4 class="title"><a href="">Lorem Ipsum</a></h4>
-						<p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident etiro rabeta lingo.</p>
+						<h4 class="title"><a href="">Order Payment</a></h4>
+						<p class="description">You can easily make an order and pay through our virtual account in convensinal bank
+						or you can make a payment through Visa</p>
 					</div>
 				</div>
 
 				<div class="col-lg-6">
 					<div class="box wow fadeInRight">
 						<div class="icon"><i class="ion-ios-bookmarks-outline"></i></div>
-						<h4 class="title"><a href="">Dolor Sitema</a></h4>
-						<p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata nodera clas.</p>
+						<h4 class="title"><a href="">Matching</a></h4>
+						<p class="description">Since you use filter feature, you can see the background of the trainer and the cost you have. Choose only the matching trainer.</p>
 					</div>
 				</div>
 
 				<div class="col-lg-6">
 					<div class="box wow fadeInLeft">
 						<div class="icon"><i class="ion-ios-heart-outline"></i></div>
-						<h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
-						<p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur trinige zareta lobur trade.</p>
+						<h4 class="title"><a href="">Reminder</a></h4>
+						<p class="description">Dont worry if you forget the schedule training.</p>
 					</div>
 				</div>
 
 				<div class="col-lg-6">
 					<div class="box wow fadeInRight">
 						<div class="icon"><i class="ion-ios-analytics-outline"></i></div>
-						<h4 class="title"><a href="">Magni Dolores</a></h4>
-						<p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum rideta zanox satirente madera</p>
+						<h4 class="title"><a href="">Mobile based</a></h4>
+						<p class="description">Pelatih.id will available on Android Application. </p>
 					</div>
 				</div>
 
@@ -164,6 +165,11 @@
 
 			<div class="row wow fadeInUp">
 
+				<div class="col-md-6">
+					<img src="https://smemagazine.asia/en/wp-content/uploads/2017/10/magic_1_orig.png" alt="">
+				</div>
+
+				<!-- 
 				<div class="col-md-2">
 					<img src="<?php echo base_url('assets/img/clients/client-1.png')?>" alt="">
 				</div>
@@ -187,146 +193,15 @@
 				<div class="col-md-2">
 					<img src="<?php echo base_url('assets/img/clients/client-6.png')?>" alt="">
 				</div>
+				 -->
 
 			</div>
 		</div>
 	</section><!-- #more-features -->
 
-	<!--==========================
-      Pricing Section
-    ============================-->
-	<section id="pricing" class="section-bg">
-		<div class="container">
-
-			<div class="section-header">
-				<h3 class="section-title">Pricing</h3>
-				<span class="section-divider"></span>
-				<p class="section-description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
-			</div>
-
-			<div class="row">
-
-				<div class="col-lg-4 col-md-6">
-					<div class="box wow fadeInLeft">
-						<h3>Free</h3>
-						<h4><sup>$</sup>0<span> month</span></h4>
-						<ul>
-							<li><i class="ion-android-checkmark-circle"></i> Quam adipiscing vitae proin</li>
-							<li><i class="ion-android-checkmark-circle"></i> Nec feugiat nisl pretium</li>
-							<li><i class="ion-android-checkmark-circle"></i> Nulla at volutpat diam uteera</li>
-							<li><i class="ion-android-checkmark-circle"></i> Pharetra massa massa ultricies</li>
-							<li><i class="ion-android-checkmark-circle"></i> Massa ultricies mi quis hendrerit</li>
-						</ul>
-						<a href="#" class="get-started-btn">Get Started</a>
-					</div>
-				</div>
-
-				<div class="col-lg-4 col-md-6">
-					<div class="box featured wow fadeInUp">
-						<h3>Business</h3>
-						<h4><sup>$</sup>29<span> month</span></h4>
-						<ul>
-							<li><i class="ion-android-checkmark-circle"></i> Quam adipiscing vitae proin</li>
-							<li><i class="ion-android-checkmark-circle"></i> Nec feugiat nisl pretium</li>
-							<li><i class="ion-android-checkmark-circle"></i> Nulla at volutpat diam uteera</li>
-							<li><i class="ion-android-checkmark-circle"></i> Pharetra massa massa ultricies</li>
-							<li><i class="ion-android-checkmark-circle"></i> Massa ultricies mi quis hendrerit</li>
-						</ul>
-						<a href="#" class="get-started-btn">Get Started</a>
-					</div>
-				</div>
-
-				<div class="col-lg-4 col-md-6">
-					<div class="box wow fadeInRight">
-						<h3>Developer</h3>
-						<h4><sup>$</sup>49<span> month</span></h4>
-						<ul>
-							<li><i class="ion-android-checkmark-circle"></i> Quam adipiscing vitae proin</li>
-							<li><i class="ion-android-checkmark-circle"></i> Nec feugiat nisl pretium</li>
-							<li><i class="ion-android-checkmark-circle"></i> Nulla at volutpat diam uteera</li>
-							<li><i class="ion-android-checkmark-circle"></i> Pharetra massa massa ultricies</li>
-							<li><i class="ion-android-checkmark-circle"></i> Massa ultricies mi quis hendrerit</li>
-						</ul>
-						<a href="#" class="get-started-btn">Get Started</a>
-					</div>
-				</div>
-
-			</div>
-		</div>
-	</section><!-- #pricing -->
+	
 
 
-	<!--==========================
-      Frequently Asked Questions Section
-    ============================-->
-	<section id="faq">
-		<div class="container">
-
-			<div class="section-header">
-				<h3 class="section-title">Frequently Asked Questions</h3>
-				<span class="section-divider"></span>
-				<p class="section-description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
-			</div>
-
-			<ul id="faq-list" class="wow fadeInUp">
-				<li>
-					<a data-toggle="collapse" class="collapsed" href="#faq1">Non consectetur a erat nam at lectus urna duis? <i class="ion-android-remove"></i></a>
-					<div id="faq1" class="collapse" data-parent="#faq-list">
-						<p>
-							Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
-						</p>
-					</div>
-				</li>
-
-				<li>
-					<a data-toggle="collapse" href="#faq2" class="collapsed">Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque? <i class="ion-android-remove"></i></a>
-					<div id="faq2" class="collapse" data-parent="#faq-list">
-						<p>
-							Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
-						</p>
-					</div>
-				</li>
-
-				<li>
-					<a data-toggle="collapse" href="#faq3" class="collapsed">Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi? <i class="ion-android-remove"></i></a>
-					<div id="faq3" class="collapse" data-parent="#faq-list">
-						<p>
-							Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
-						</p>
-					</div>
-				</li>
-
-				<li>
-					<a data-toggle="collapse" href="#faq4" class="collapsed">Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla? <i class="ion-android-remove"></i></a>
-					<div id="faq4" class="collapse" data-parent="#faq-list">
-						<p>
-							Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
-						</p>
-					</div>
-				</li>
-
-				<li>
-					<a data-toggle="collapse" href="#faq5" class="collapsed">Tempus quam pellentesque nec nam aliquam sem et tortor consequat? <i class="ion-android-remove"></i></a>
-					<div id="faq5" class="collapse" data-parent="#faq-list">
-						<p>
-							Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in
-						</p>
-					</div>
-				</li>
-
-				<li>
-					<a data-toggle="collapse" href="#faq6" class="collapsed">Tortor vitae purus faucibus ornare. Varius vel pharetra vel turpis nunc eget lorem dolor? <i class="ion-android-remove"></i></a>
-					<div id="faq6" class="collapse" data-parent="#faq-list">
-						<p>
-							Laoreet sit amet cursus sit amet dictum sit amet justo. Mauris vitae ultricies leo integer malesuada nunc vel. Tincidunt eget nullam non nisi est sit amet. Turpis nunc eget lorem dolor sed. Ut venenatis tellus in metus vulputate eu scelerisque. Pellentesque diam volutpat commodo sed egestas egestas fringilla phasellus faucibus. Nibh tellus molestie nunc non blandit massa enim nec.
-						</p>
-					</div>
-				</li>
-
-			</ul>
-
-		</div>
-	</section><!-- #faq -->
 
 
 	<!--==========================
