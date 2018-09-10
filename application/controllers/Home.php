@@ -21,12 +21,14 @@ class Home extends CI_Controller {
 	function __Construct()
     {
         parent ::__construct();
-        //$this->load->model('home_model');
     }
 	 
 	public function index()
 	{
-		$this->load->view('guest/index');
+		$this->load->view('layout/head');
+		$this->load->view('layout/nav');
+		$this->load->view('guest/content');
+		$this->load->view('layout/footer');
 	}
 	
 	public function login()
