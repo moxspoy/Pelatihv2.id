@@ -21,7 +21,7 @@
 		<nav id="nav-menu-container">
 			<ul class="nav-menu">
 				<li class="menu-active"><a href="<?php echo base_url()?>">Home</a></li>
-				<li><a href="">Explore</a></li>
+				<li><a href="<?php echo base_url('explore')?>">Explore</a></li>
 				<!--
 				<li class="menu-has-children"><a href="">Drop Down</a>
 					<ul>

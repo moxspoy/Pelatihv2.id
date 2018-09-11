@@ -42,6 +42,17 @@
 
 <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
 
+<script  type="text/javascript">
+	$(document).ready(function(){
+		$('.autoplay').slick({
+			slidesToShow: 3,
+			slidesToScroll: 1,
+			autoplay: true,
+			autoplaySpeed: 2000,
+		});
+	});
+
+</script>
 
 </body>
 </html>

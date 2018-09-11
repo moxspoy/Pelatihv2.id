@@ -60,13 +60,19 @@
 	<!-- My custom CSS -->
 	<link href="<?php echo base_url('assets/css/style.css')?>" rel="stylesheet">
 
+	<link href="https://unpkg.com/ionicons@4.4.2/dist/css/ionicons.min.css" rel="stylesheet">
+
+	<!-- Carousel -->
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url('assets/lib/slick/slick.css')?>"/>
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url('assets/lib/slick/slick-theme.css')?>"/>
+	<script src="<?php echo base_url('assets/lib/slick/slick.js')?>"></script>
+
 	<!-- =======================================================
       Theme Name: Pelatih.id
       Theme URL: https://bootstrapmade.com/Pelatih.id-bootstrap-landing-page-template/
       Author: BootstrapMade.com
       License: https://bootstrapmade.com/license/
     ======================================================= -->
-<link href="https://unpkg.com/ionicons@4.4.2/dist/css/ionicons.min.css" rel="stylesheet">
 
 </head>
 <body>
