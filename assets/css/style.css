@@ -1225,3 +1225,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #footer .footer-links a:hover {
 	color: #1dc8cd;
 }
+
+.margin-10 {
+	margin: 30px;
+}

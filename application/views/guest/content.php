@@ -36,14 +36,14 @@
     ============================-->
 	<section id="features">
 		<div class="container">
-
-			<div class="row">
-
-				<div class="section-header">
+<div class="section-header">
 					<h3 class="section-title">Product Feature</h3>
 					<span class="section-divider"></span>
 
 				</div>
+			<div class="row">
+
+				
 
 				<div class="col-lg-4 col-md-5 features-img">
 					<img src="<?php echo base_url('assets/img/product-features.png')?>" alt="" class="wow fadeInLeft">
@@ -54,22 +54,22 @@
 					<div class="row">
 
 						<div class="col-lg-6 col-md-6 box wow fadeInRight">
-							<div class="icon"><i class="ion-ios-speedometer-outline"></i></div>
+							<div class="icon"><i class="icon ion-md-search"></i></div>
 							<h4 class="title"><a href="">Search</a></h4>
 							<p class="description">Search your matching trainer. Pelatih.id let you filter to make a better and preferrable trainer</p>
 						</div>
 						<div class="col-lg-6 col-md-6 box wow fadeInRight" data-wow-delay="0.1s">
-							<div class="icon"><i class="ion-ios-flask-outline"></i></div>
+							<div class="icon"><i class="ion-ios-bowtie"></i></div>
 							<h4 class="title"><a href="">Order</a></h4>
 							<p class="description">After get your trainer, you can order the trainer and your trainer will contact you</p>
 						</div>
 						<div class="col-lg-6 col-md-6 box wow fadeInRight data-wow-delay="0.2s">
-						<div class="icon"><i class="ion-social-buffer-outline"></i></div>
+						<div class="icon"><i class="ion-social-buffer"></i></div>
 						<h4 class="title"><a href="">Comparation</a></h4>
 						<p class="description">We provide a description of the available trainer you search, so you can make a decision to choose the best one</p>
 					</div>
 					<div class="col-lg-6 col-md-6 box wow fadeInRight" data-wow-delay="0.3s">
-						<div class="icon"><i class="ion-ios-analytics-outline"></i></div>
+						<div class="icon"><i class="ion-ios-calendar"></i></div>
 						<h4 class="title"><a href="">Schedule</a></h4>
 						<p class="description">Manage your schedule easily with Pelatih.id</p>
 					</div>
@@ -122,7 +122,7 @@
 
 				<div class="col-lg-6">
 					<div class="box wow fadeInLeft">
-						<div class="icon"><i class="ion-ios-stopwatch-outline"></i></div>
+						<div class="icon"><i class="ion-ios-card"></i></div>
 						<h4 class="title"><a href="">Order Payment</a></h4>
 						<p class="description">You can easily make an order and pay through our virtual account in convensinal bank
 						or you can make a payment through Visa</p>
@@ -131,7 +131,7 @@
 
 				<div class="col-lg-6">
 					<div class="box wow fadeInRight">
-						<div class="icon"><i class="ion-ios-bookmarks-outline"></i></div>
+						<div class="icon"><i class="ion-ios-bookmarks"></i></div>
 						<h4 class="title"><a href="">Matching</a></h4>
 						<p class="description">Since you use filter feature, you can see the background of the trainer and the cost you have. Choose only the matching trainer.</p>
 					</div>
@@ -139,7 +139,7 @@
 
 				<div class="col-lg-6">
 					<div class="box wow fadeInLeft">
-						<div class="icon"><i class="ion-ios-heart-outline"></i></div>
+						<div class="icon"><i class="ion-ios-alarm"></i></div>
 						<h4 class="title"><a href="">Reminder</a></h4>
 						<p class="description">Dont worry if you forget the schedule training.</p>
 					</div>
@@ -147,7 +147,7 @@
 
 				<div class="col-lg-6">
 					<div class="box wow fadeInRight">
-						<div class="icon"><i class="ion-ios-analytics-outline"></i></div>
+						<div class="icon"><i class="ion-ios-phone-portrait"></i></div>
 						<h4 class="title"><a href="">Mobile based</a></h4>
 						<p class="description">Pelatih.id will available on Android Application. </p>
 					</div>
@@ -275,17 +275,17 @@
 				<div class="col-lg-3 col-md-4">
 					<div class="info">
 						<div>
-							<i class="ion-ios-location-outline"></i>
+							<i class="ion-ios-locate"></i>
 							<p>Jalan Sunan Giri No 1<br>Rawamangun, Jakarta Timur 13220</p>
 						</div>
 
 						<div>
-							<i class="ion-ios-email-outline"></i>
+							<i class="ion-ios-mail"></i>
 							<p>help@pelatih.id</p>
 						</div>
 
 						<div>
-							<i class="ion-ios-telephone-outline"></i>
+							<i class="ion-ios-call"></i>
 							<p>+62 859 2003 9600</p>
 						</div>
 

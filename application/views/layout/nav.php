@@ -13,15 +13,15 @@
 	<div class="container">
 
 		<div id="logo" class="pull-left">
-			<h1><a href="#intro" class="scrollto">Pelatih.id</a></h1>
+			<h1><a href="<?php echo base_url()?>" class="scrollto">Pelatih.id</a></h1>
 			<!-- Uncomment below if you prefer to use an image logo -->
 			<!-- <a href="#intro"><img src="img/logo.png" alt="" title=""></a> -->
 		</div>
 
 		<nav id="nav-menu-container">
 			<ul class="nav-menu">
-				<li class="menu-active"><a href="#intro">Home</a></li>
-				<li><a href="#features">Explore</a></li>
+				<li class="menu-active"><a href="<?php echo base_url()?>">Home</a></li>
+				<li><a href="">Explore</a></li>
 				<!--
 				<li class="menu-has-children"><a href="">Drop Down</a>
 					<ul>
@@ -42,8 +42,7 @@
 				</li>
 			-->
 				
-				<li><a href="sign_up"><button class="btn btn-primary"
-																			   style="padding: 1%;border-radius: 10px; width: 7vw; height: 5vh">Sign Up</button></a></li>
+				<li><a href="sign_up"><button class="btn btn-primary" style="padding: 1%;border-radius: 10px; width: 80px; height: 30px">Sign Up</button></a></li>
 			</ul>
 		</nav><!-- #nav-menu-container -->
 	</div>

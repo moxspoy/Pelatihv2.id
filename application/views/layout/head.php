@@ -47,7 +47,6 @@
 	<!-- Javascript -->
 
 	<!-- JavaScript Libraries -->
-	<script src="<?php echo base_url('assets/lib/jquery/jquery.min.js')?>"></script>
 	<script src="<?php echo base_url('assets/lib/jquery/jquery-migrate.min.js')?>"></script>
 	<script src="<?php echo base_url('assets/lib/easing/easing.min.js')?>"></script>
 	<script src="<?php echo base_url('assets/lib/wow/wow.min.js')?>"></script>
@@ -67,6 +66,7 @@
       Author: BootstrapMade.com
       License: https://bootstrapmade.com/license/
     ======================================================= -->
+<link href="https://unpkg.com/ionicons@4.4.2/dist/css/ionicons.min.css" rel="stylesheet">
 
 </head>
 <body>
